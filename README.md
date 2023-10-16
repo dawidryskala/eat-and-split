@@ -15,6 +15,8 @@ When sharing expenses, select a friend, record the total bill and your expenses.
 
 Start using Eat and Split today for stress-free expense sharing with friends, all made possible by the magic of React.js! Enjoy meals and outings without financial disagreements. 🍽️💸
 
+![eat_and_split_screen](https://github.com/dawidryskala/eat-and-split/assets/141305850/048b5c19-a229-4daa-97e4-9e32ab8f8305)
+
 This video shows how this site works.
 
 https://github.com/dawidryskala/eat-and-split/assets/141305850/b3797419-79f5-4818-956a-e1c8afe598fe
