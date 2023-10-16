@@ -1,4 +1,6 @@
-# Eat and Split project 
+# Eat and Split project
+
+## Tech: React.js
 
 ### `Project description`
 
