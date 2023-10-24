@@ -4,7 +4,6 @@ Tired of squabbling over who owes what after meals with friends or roommates? Lo
 
 Eat and Split
 
-## Get Started
 ## Manage Friends Easily 🧑‍🤝‍🧑
 
 Add friends with their names and profile images. The app calculates who owes whom, using color-coded balances for clarity. Green means someone owes you, and red indicates you owe them.
